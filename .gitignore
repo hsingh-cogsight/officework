@@ -1,0 +1,6 @@
+.env
+.token_cache.json
+.watch_state.json
+__pycache__/
+*.pyc
+.venv/
